@@ -54,5 +54,12 @@ I am a computer engineering student, passionate about technology and continuous 
 
 <h2>Github stats:</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=alberto-is&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=alberto-is&theme=material-palenight)](https://github.com/Elanza-48)
+<div align="center">
+  <a href="https://github.com/Elanza-48">
+    <img src="https://github-readme-stats.vercel.app/api?username=alberto-is&show_icons=true&theme=tokyonight&hide_border=true&locale=en" width="400px">
+  </a>
+  <a href="https://github.com/Elanza-48">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alberto-is&theme=material-palenight" width="400px">
+  </a>
+</div>
+
