@@ -8,6 +8,8 @@ I am a computer engineering student, passionate about technology and continuous 
 - ⌨️I’m currently learning ...
   - Go
   - Machine Learning and Data Mining
+  - React
+  - ...
 - 👐 I’m looking forward to collaborate on open source projects.
 ## My Skills Include
 
