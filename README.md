@@ -5,7 +5,7 @@
 ***About me***
 
 I am a computer engineering student, passionate about technology and continuous learning. My journey in programming began at the age of 15 with Python, developing practical projects that solved everyday problems. This initial curiosity has evolved into a deep interest in artificial intelligence, machine learning, and algorithm optimization and design, areas in which I have decided to specialize at the University of Castilla-La Mancha.I love to learn and build something new, productive, innovative and creative.
-- ⌨️I’m currently learning ...
+- ⌨️I’m currently learning: 
   - Go
   - Machine Learning and Data Mining
   - React
