@@ -69,6 +69,6 @@ I am a computer engineering student, passionate about technology and continuous 
 
 <div style="text-align: center;">
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9f00ffC&center=true&vCenter=true&random=false&width=435&lines=Data Science;Machine Learning" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9f00ffC&center=true&vCenter=true&random=false&width=435&lines=Data Science;Machine Learning...;" alt="Typing SVG" /></a>
 </p>
 </div>
